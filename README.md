@@ -1,10 +1,14 @@
 <div align="center">
 
-# Solomon Getnet
+## 
 
-**Solidity Developer • Full Stack Developer**
+### **Solomon Getnet**
 
+#### Solidity Developer • Full Stack Developer
+
+```
 Building secure smart contracts, decentralized applications, and scalable web platforms.
+```
 
 ---
 
@@ -54,6 +58,7 @@ Based in **Addis Ababa, Ethiopia** — committed to advancing blockchain adoptio
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)

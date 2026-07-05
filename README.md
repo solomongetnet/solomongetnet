@@ -35,6 +35,10 @@ Based in **Addis Ababa, Ethiopia** — committed to advancing blockchain adoptio
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)
+![TON Connect](https://img.shields.io/badge/TON%20Connect-0098EA?style=for-the-badge&logo=ton&logoColor=white)
+![Tact](https://img.shields.io/badge/Tact-6C5CE7?style=for-the-badge&logo=typescript&logoColor=white)
+![FunC](https://img.shields.io/badge/FunC-0098EA?style=for-the-badge)
 ![Foundry](https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logo=rust&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF404?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=javascript&logoColor=white)

@@ -1,14 +1,10 @@
 <div align="center">
 
-## 
+<h1><strong>Solomon Getnet</strong></h1>
 
-### **Solomon Getnet**
+<h2><strong>Solidity Developer • Full Stack Developer</strong></h2>
 
-#### Solidity Developer • Full Stack Developer
-
-```
-Building secure smart contracts, decentralized applications, and scalable web platforms.
-```
+<pre><code>Building secure smart contracts, decentralized applications, and scalable web platforms.</code></pre>
 
 ---
 

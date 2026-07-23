@@ -18,7 +18,7 @@ Specialized in **smart contract engineering** and **full stack development**, wi
 - ⛓️ **Blockchain Architecture** — Designing DeFi protocols, account abstraction patterns, and composable smart contracts
 - 🚀 **Full Stack DApps** — Building frontend frameworks and backend systems for blockchain applications
 - 📦 **Ethereum Ecosystem** — Deep expertise in protocols, standards, and tooling across Web3
-- 🔍 **Open Source** — Contributing to blockchain infrastructure and developer tools
+- 🔍 **Open Source** — Contributing to blockchain  infrastructure and developer tools
 - 💡 **Innovation** — Exploring EIP standards, account abstraction, and advanced cryptographic patterns
 
 Based in **Addis Ababa, Ethiopia** — committed to advancing blockchain adoption and Web3 infrastructure.

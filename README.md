@@ -12,7 +12,7 @@
 
 ## About Me
 
-Specialized in **smart contract engineering** and **full stack development**, with a focus on: 
+Specialized in **smart contract engineering** and **full stack development**, with a focus on:
 
 - 🔐 **Smart Contract Security** — Writing efficient, auditable Solidity code for Ethereum and EVM-compatible chains
 - ⛓️ **Blockchain Architecture** — Designing DeFi protocols, account abstraction patterns, and composable smart contracts 

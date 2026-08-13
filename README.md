@@ -11,6 +11,7 @@
 </div>
 
 
+
 ## About Me
 
 Specialized in **smart contract engineering** and **full stack development**, with a focus on:
